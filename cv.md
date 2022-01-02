@@ -1,5 +1,40 @@
 # Julia Radivilko
+## JuliannaS14@mail.ru
+### Опыта работы в програмировании нет, стремлюсь учиться и позновать новое 
+#### навыков в языках программирования нет 
+#####  пример кода 
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>сайт партфолио</title>
+    <style>
+        html, body, p {
+            padding: 0;
+            margin: 0;
+        }
+        .bold-text {
+            font-weight:bold;
+        }
+        .cyan-text {
+            color:rgb(14, 86, 180) 
+        }
+        .purple {
+            background: orange;
+        }
+        .white-text {
+            color: rgb(255, 255, 255);
+        }
 
-## Contaks
-### Place of work
-#### Education
+
+        .block1 {
+            width: 900px;
+            margin:auto;
+            padding-top: 30px;
+            padding-bottom: 30px;
+
+        }
+      ###### опыта програмирования нет 
+      ####### высшее образование 
+      ########начальчый уровень английского 
